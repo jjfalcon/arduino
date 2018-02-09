@@ -1,6 +1,13 @@
 # arduino
+## puesta en marcha
+
+## tutorial
 
 ## referencias interesantes
+
+[Mi huerto en JS](https://www.youtube.com/watch?v=0ZxcSi_JHOY&feature=em-subs_digest-vrecs)
+
+¿Alguna vez has pensado en montar un mini huerto en tu terraza? ¿Te gusta la electrónica y el software?
 
 [Top 10 arduino sensors with projects for beginners](https://www.youtube.com/watch?v=cAKnTSJb-SE&feature=em-subs_digest-vrecs)
 01. HC-SR501 Pyroelectric Infrared Sensor Module
