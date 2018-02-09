@@ -1,9 +1,13 @@
 # arduino
-## puesta en marcha
+## Puesta en marcha
 
-## tutorial
+## Tutorial
 
-## referencias interesantes
+## Herramientas
+
+[InfluxDB](https://www.influxdata.com/) es una plataforma cloud para métricas y eventos muy útil en aplicaciones IoT (monitorizando y controlando sensores y dispositivos), DevOps (monitorizando y controlando infrraestructuras y aplicaciones) y Realtime Analitcs (construyendo aplicaciones actuando con datos en tiempo real).
+
+## Referencias y proyectos interesantes
 
 [Mi huerto en JS](https://www.youtube.com/watch?v=0ZxcSi_JHOY&feature=em-subs_digest-vrecs)
 
