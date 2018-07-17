@@ -4,16 +4,27 @@
 
 * Descargar entorno desde [web oficial](https://www.arduino.cc/)
 * Instalar entorno desarrollo
-* Abrir entorno, y configurar tipo tarjeta (Leonardo) y puerto (USB)
+* Abrir entorno
+* Configurar tipo tarjeta (Leonardo)
+* Configurar puerto (MAC USB directo) (WIN COM Virtual) 
 * Abrir ejemplo-basic-blink
 * Subir, y el led 13 tiene que parpadear con los tiempos programados (1s ON, 1s OFF)
+* Funciona tal como se indica para placa arduino Leonardo
+* En Mac 
 
 Para más detalles tenemos las siguienetes referencias:
 * [Como configurar arduino y proccesing](https://www.youtube.com/watch?v=60OrStrrpMk)
+* [Arduino desde cero](https://www.youtube.com/watch?v=3BnS59Kg9DE) Primeros pasos con ejemplos básicos
 
 ## Tutorial
 
 ## Herramientas
+
+[Tinkercad Arduino Simulador](https://www.youtube.com/watch?v=j7KYwDUHn_w) Video explicativo de como funciona un simulador de arduino.
+
+[Processing](https://processing.org/) Processing es un lenguaje de programación y entorno de desarrollo integrado de código abierto basado en Java. Fue iniciado por Ben Fry y Casey Reas a partir de reflexiones en el Aesthetics and Computation Group del MIT Media Lab dirigido por John Maeda.
+
+Es muy común usar Processing con Arduino para crear un entorno de visualización  de datos mucho más atractivo visualmente y con más posibilidades que si usamos el Monitor Serial del IDE de Arduino.
 
 [InfluxDB](https://www.influxdata.com/) es una plataforma cloud para métricas y eventos muy útil en aplicaciones IoT (monitorizando y controlando sensores y dispositivos), DevOps (monitorizando y controlando infrraestructuras y aplicaciones) y Realtime Analitcs (construyendo aplicaciones actuando con datos en tiempo real).
 
