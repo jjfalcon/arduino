@@ -1,5 +1,15 @@
 # arduino
+
 ## Puesta en marcha
+
+* Descargar entorno desde [web oficial](https://www.arduino.cc/)
+* Instalar entorno desarrollo
+* Abrir entorno, y configurar tipo tarjeta (Leonardo) y puerto (USB)
+* Abrir ejemplo-basic-blink
+* Subir, y el led 13 tiene que parpadear con los tiempos programados (1s ON, 1s OFF)
+
+Para más detalles tenemos las siguienetes referencias:
+### [Como configurar arduino y proccesing](https://www.youtube.com/watch?v=60OrStrrpMk)
 
 ## Tutorial
 
