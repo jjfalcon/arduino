@@ -5,8 +5,8 @@
 * Descargar entorno desde [web oficial](https://www.arduino.cc/)
 * Instalar entorno desarrollo
 * Abrir entorno
-* Configurar tipo tarjeta (Leonardo)
-* Configurar puerto (MAC USB directo) (WIN COM Virtual) 
+* Configurar tipo tarjeta (Leonardo) - Herramientas-Placa
+* Configurar puerto (MAC USB directo) (WIN COM Virtual) - Herramientas-Puerto
 * Abrir ejemplo-basic-blink
 * Subir, y el led 13 tiene que parpadear con los tiempos programados (1s ON, 1s OFF)
 * Funciona tal como se indica para placa arduino Leonardo
