@@ -17,6 +17,7 @@ Para más detalles tenemos las siguienetes referencias:
 * [Arduino desde cero](https://www.youtube.com/watch?v=3BnS59Kg9DE) Primeros pasos con ejemplos básicos
 
 ## Tutorial
+* [Arduino paso a paso](https://arduinopasoapaso.wordpress.com/)
 
 ## Herramientas
 
