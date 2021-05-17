@@ -12,9 +12,10 @@
 * Funciona tal como se indica para placa arduino Leonardo
 * En Mac 
 
-Para más detalles tenemos las siguienetes referencias:
+Para más detalles tenemos las siguientes referencias:
 * [Como configurar arduino y proccesing](https://www.youtube.com/watch?v=60OrStrrpMk)
 * [Arduino desde cero](https://www.youtube.com/watch?v=3BnS59Kg9DE) Primeros pasos con ejemplos básicos
+* [Arduino Docs](https://blog.arduino.cc/2021/05/17/arduino-docs-has-all-the-info-you-ever-need-about-arduino-boards/)
 
 ## Tutorial
 * [Arduino paso a paso](https://arduinopasoapaso.wordpress.com/)
